@@ -18,4 +18,3 @@ public class MainClass.java{
 
         System.out.println("  " + str);
         System.out.println("  " + sym);
-        
